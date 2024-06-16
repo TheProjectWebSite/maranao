@@ -167,7 +167,7 @@ html{
     font-size: 22px;
     color: var(--text-color);
     font-weight: 700;
-    font-family: style;
+    font-family: "Playfair Display", serif;
 }
 .navbar{
     display: flex;
