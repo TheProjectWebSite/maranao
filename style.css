@@ -217,7 +217,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(../TestCode/images/Home.jpg);
+    background-image: linear-gradient(to left, rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(/images/Home.jpg);
     background-size: cover;
     background-position: bottom center;
     display: flex;
@@ -228,7 +228,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(../TestCode/images/63d648c5-e62e-470f-8604-b7f9d29eed4f.jpg);
+    background-image: linear-gradient(to left, rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url(images/63d648c5-e62e-470f-8604-b7f9d29eed4f.jpg);
     background-size: cover;
     background-position: bottom center;
     align-items: center;
